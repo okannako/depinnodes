@@ -19,31 +19,31 @@
 ## PROJELER
 - En başta projelerin hepsinde bize gerekli olan Chromium tarayıcısının nasıl yüklendiğini ve kullanıldığını şu videodan görebilirsiniz >>> Chromium Video > https://youtu.be/cNV9jVBYcBg
 
-### Openledger
+### 1-) Openledger
 - Proje $8M yatırım aldı. (Bir süredir sorunları var ve giriş hata verebiliyor. Ara ara deneyin.)
   
 Kurulum Videosu: https://youtu.be/cNV9jVBYcBg      
 Kayıt Linki: https://testnet.openledger.xyz/?referral_code=bqp4npvuny
 
-### Dawn
+### 2-) Dawn
 - Proje $18M yatırım aldım. Hesap başı bir tane node kurulabiliyor.
   
 Referans: amamp4le     
 Eklenti: https://chromewebstore.google.com/detail/dawn-validator-chrome-ext/fpdkjdnhkakefebpekbdhillbhonfjjp
 
-### Bless Network
+### 3-) Bless Network
 - Proje $8M yatırım aldı. Birden fazla node çalıştırabilirsiniz. Aynı makinada birden fazla node çalıştırmak sorun yaratabilir.
 
 Kayıt: https://bless.network/dashboard?ref=TTFLWQ   
 Eklenti: https://chromewebstore.google.com/detail/bless/pljbjcehnhcnofmkdbjolghdcjnmekia
 
-### Gradient
+### 4-) Gradient
 - Önemli yatırımcıları var. Birden fazla node çalıştırabilirsiniz ancak sistemi biraz yoran bir node, çok düşük makinalarda sorun yaratabilir.
 
 Kayıt: https://app.gradient.network/signup?code=6KV3K3   
 Eklenti: https://chromewebstore.google.com/detail/gradient-sentry-node/caacbgbklghmpodbdafajbgdnegacfmo
 
-### Teneo Protocol
+### 5-) Teneo Protocol
 - Peaq tarafından destekleniyor ve hesap başına bir tane node kurulabilir.
 
 Referans: qDkOy    
