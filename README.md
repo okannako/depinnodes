@@ -14,10 +14,10 @@
 - Çok kolayca hesap kapatılabildiği için het-zner üzerinde çalıştırmıyorum.
 - Bazı projelerin kullanımı çok yüksek ve multi hesap fazlaca var. Eğer airdrop sırasında ayıklamak adına bir doğrulama gelirse bu pozitif olacaktır. Gelmeme ihtimalini de göz önünde bulundurmak gerekiyor.
 - Önceliğim her zaman yatırım alan ve alma ihtimali olan projeler çünkü zaman kaybı olma ihtimali yüksek olan çok proje var.
-- Bazı projelere referanssız girilmiyor ya da refarans olmazsa mail gelmiyor.
+- Bazı projelere referanssız girilmiyor ya da referans olmazsa mail gelmiyor.
 
 ## PROJELER
-- En başta projelerin hepsinde bize gerekli olan Chromium tarayıcısının nasıl yüklendiğini ve kullanıldığını şu videodan görebilirsiniz.
+- En başta projelerin hepsinde bize gerekli olan Chromium tarayıcısının nasıl yüklendiğini ve kullanıldığını şu videodan görebilirsiniz. İzlemeden işlemlere başlamayın.
   Chromium Video > https://youtu.be/cNV9jVBYcBg
 
 ### 1-) Openledger
