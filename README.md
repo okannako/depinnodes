@@ -1,4 +1,8 @@
-![eklenti](https://github.com/user-attachments/assets/690c3d8e-dfae-419d-9813-0977c9a8a137)
+<p align="center">
+  <a href="https://orbisworlds.org">
+    <img alt="Hero" src="https://github.com/user-attachments/assets/690c3d8e-dfae-419d-9813-0977c9a8a137" width="75%" />
+  </a>
+</p>
 
 ## DePIN Projeleri
 - Eklentilerle node çalıştırarak puan toplamak bir süredir ilgi görüyor ve bununla ilgili birçok proje çıktı.
