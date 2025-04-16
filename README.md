@@ -46,7 +46,7 @@
 - Site: [Link](https://dashboard.teneo.pro/)
 - Eklenti: https://chromewebstore.google.com/detail/teneo-community-node/emcclcoaglgcpoognfiggmhnhgabppkm?authuser=0&hl=en
 
-### 6-) Layeredge
+### 6-) Layeredge (Bitti)
 - Referans: 1Hqw4A7T
 - Site: [Link](https://dashboard.layeredge.io/)
 - Siteye Met*mask cüzdan bağlayıp, referansla giriş yaptıktan sonra ekranda Start Node yaparak başlatıyoruz. Ayrıca üstte günlük cliam ile puan da alabiliyorsunuz. 
