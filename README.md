@@ -46,7 +46,12 @@
 - Site: [Link](https://dashboard.teneo.pro/)
 - Eklenti: https://chromewebstore.google.com/detail/teneo-community-node/emcclcoaglgcpoognfiggmhnhgabppkm?authuser=0&hl=en
 
-### 6-) Layeredge (Bitti)
+### 6-) NodeGo
+- $8M yatırım aldı.
+- Site: [Link](https://app.nodego.ai/r/NODEA672C4E3610E)
+- Eklenti: https://chromewebstore.google.com/detail/nodegoai-depin-connect/jbmdcnidiaknboflpljihfnbonjgegah
+
+### 7-) Layeredge (Bitti)
 - Referans: 1Hqw4A7T
 - Site: [Link](https://dashboard.layeredge.io/)
 - Siteye Met*mask cüzdan bağlayıp, referansla giriş yaptıktan sonra ekranda Start Node yaparak başlatıyoruz. Ayrıca üstte günlük cliam ile puan da alabiliyorsunuz. 
